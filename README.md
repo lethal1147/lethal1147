@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Joakim Dahlstrom. You guys can call me Kim. Learner from Junior Software Developer Cohort#4.
-![alt text](https://www.svgrepo.com/show/354113/nextjs-icon.svg)
+![alt text](https://www.svgrepo.com/show/354113/nextjs-icon.svg | width=100)
 <!--
 **lethal1147/lethal1147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
