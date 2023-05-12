@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Joakim Dahlstrom. You guys can call me Kim. Learner from Junior Software Developer Cohort#4.
-<img src="https://res.cloudinary.com/dvdpkfs5k/image/upload/v1683917416/github-profile_lkyhi9.jpg">
+<img src="https://res.cloudinary.com/dvdpkfs5k/image/upload/v1683917416/github-profile_lkyhi9.jpg" height="100">
 <!--
 **lethal1147/lethal1147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
