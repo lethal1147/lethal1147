@@ -1,7 +1,6 @@
 ### Hello there 👋 I'm Joakim Dahlstrom, or Kim for short. I'm a passionate and dedicated Junior Software Developer from Cohort#4. I'm always striving for excellence in my work and ready to make meaningful contributions to any team or project. Feel free to explore my projects and reach out to me for collaboration opportunities. Thanks for visiting my GitHub profile!
 <a href="https://drive.google.com/file/d/1Ach3Jfa0pN3siJ3pD_k34pz9RkwwOtxM/view?usp=sharing" target="_blank">Here is my Resume! 📰</a><br/>
 <a href="https://kim-portfolio-two.vercel.app/" target="_blank">Here is my Portfolio! 🌐</a> | <a href="https://www.figma.com/file/8rcVjoXqGL1j3oKQEnqELP/Kim-Portfolio-Design?type=design&node-id=0%3A1&t=12zjWSr09HrTfhFO-1" target="_blank">Here my figma of this Portfolio! 🖋</a><br/><br/>
-<img src="https://res.cloudinary.com/dvdpkfs5k/image/upload/v1683917416/github-profile_lkyhi9.jpg" height="100">
 <!--
 **lethal1147/lethal1147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
